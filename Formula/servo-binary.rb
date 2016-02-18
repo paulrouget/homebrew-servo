@@ -10,7 +10,7 @@ class ServoBinary < Formula
 
 
   def install
-    prefix.install "servo/servo"
+    prefix.install "servo"
     prefix.install "resources"
     bin.install_symlink prefix/"servo"
   end
