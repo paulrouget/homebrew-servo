@@ -3,17 +3,30 @@ homebrew-servo
 
 Homebrew formula for [Servo](http://servo.org).
 
-## Usage
+## Usage:
 
-    $ brew tap servo/servo
+    $ brew tap paulrouget/servo
+
+Install binary:
+
+    $ brew install servo-binary
+
+Install from source:
+
     $ brew install --HEAD servo
-    $ servo http://google.com # See `servo --help`
 
 For debug build:
 
     $ brew install --HEAD --with-debug servo
 
-To upgrade:
+## To upgrade:
 
     $ brew update
+
+Binary: 
+
+    $ brew update servo-binary
+
+Source:
+
     $ brew reinstall --HEAD servo
