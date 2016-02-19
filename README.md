@@ -21,12 +21,10 @@ For debug build:
 
 ## To upgrade:
 
-    $ brew update
-
 Binary: 
 
-    $ brew update servo-binary
+    $ brew update && brew ugprade servo-binary
 
 Source:
 
-    $ brew reinstall --HEAD servo
+    $ brew update && brew reinstall --HEAD servo
