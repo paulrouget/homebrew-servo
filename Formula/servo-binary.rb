@@ -8,6 +8,7 @@ class ServoBinary < Formula
   bottle :unneeded
 
   depends_on "openssl"
+  depends_on "harfbuzz"
 
   def install
     prefix.install "servo"
