@@ -3,7 +3,7 @@ class ServoBinary < Formula
   homepage "http://servo.org"
   url "http://people.mozilla.org/~prouget/graphene/2016-05-30/servo-release-master-mac-2016-05-30.zip"
   version "2016.05.30"
-  sha256 "a80488dba47a97cc66ccc3fd6b0c7ca10da74971c80d4ac4c420facc70ebd32c"
+  sha256 "9e9bc1363f97c8b2725e6d8b09f68b2b398d6b785474b99b54075f6a74a6382f"
 
   bottle :unneeded
 
