@@ -1,9 +1,9 @@
 class ServoBinary < Formula
   desc "Servo, the Parallel Browser Engine Project (binary version)"
   homepage "http://servo.org"
-  url "http://people.mozilla.org/~prouget/graphene/2016-06-01/servo-release-master-mac-2016-06-01.zip"
-  version "2016.06.01"
-  sha256 "1862dadd760fb6ac92d20d4c852b7ec0daf662b1f645954ad2b0b190b89528f7"
+  url "http://people.mozilla.org/~prouget/graphene/2016-06-02/servo-release-hotfix-mac-2016-06-02.zip"
+  version "2016.06.02"
+  sha256 "4979a586f98aee655f7cc1e9ca341f982cf9864088dc069d19530ade271027ef"
 
   bottle :unneeded
 
