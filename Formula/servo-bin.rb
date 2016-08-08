@@ -1,9 +1,9 @@
 class ServoBin < Formula
   desc "Servo, the Parallel Browser Engine Project (binary version)"
   homepage "http://servo.org"
-  url "http://people.mozilla.com/~prouget/graphene/brew/servo-2016-08-02.tar.gz"
-  version "2016.08.02"
-  sha256 "62183b320a4350fa1d55855a93ffe3892d7e738d614288b7bd19e8662def36e0"
+  url "http://people.mozilla.com/~prouget/graphene/brew/servo-2016-08-08.tar.gz"
+  version "2016.08.08"
+  sha256 "667bf4576ba7ac2fcd7950f46d7de803030d42ff71429f831638a615d674853f"
 
   bottle :unneeded
 
